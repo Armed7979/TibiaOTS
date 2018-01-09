@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="1433" centery="1021" centerz="6" radius="1">
+		<monster name="Orshabaal" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1027" centery="1001" centerz="7" radius="1">
+		<monster name="Countess Sorrow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1421" centery="1031" centerz="7" radius="1">
+		<monster name="Hydra" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1429" centery="1032" centerz="7" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1437" centery="1032" centerz="7" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1023" centery="1044" centerz="7" radius="1" />
+	<spawn centerx="1481" centery="1044" centerz="7" radius="1">
+		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1486" centery="1044" centerz="7" radius="1">
+		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1441" centery="1049" centerz="7" radius="1">
+		<monster name="Medusa" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1422" centery="1052" centerz="7" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1449" centery="1053" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1434" centery="1054" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1507" centery="1055" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1441" centery="1057" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1483" centery="1057" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1069" centery="1061" centerz="7" radius="1">
+		<npc name="Kepar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1449" centery="1061" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1473" centery="1062" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1484" centery="1063" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1495" centery="1063" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1504" centery="1063" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1458" centery="1064" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1463" centery="1064" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1479" centery="1066" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1060" centery="1067" centerz="7" radius="1">
+		<npc name="Alicja" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1500" centery="1067" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1024" centery="1071" centerz="7" radius="1">
+		<npc name="Mugluf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1034" centery="1071" centerz="7" radius="1">
+		<npc name="Deruno" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1485" centery="1071" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1492" centery="1075" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1475" centery="1076" centerz="7" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1484" centery="1078" centerz="7" radius="1">
+		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1498" centery="1078" centerz="7" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1042" centery="1081" centerz="7" radius="1">
+		<npc name="Riona" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1047" centery="1081" centerz="7" radius="1">
+		<npc name="Cedrik" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1026" centery="1084" centerz="7" radius="1">
+		<npc name="Varios" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1559" centery="407" centerz="8" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1601" centery="410" centerz="8" radius="1">
+		<monster name="Gozzler" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Gozzler" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1548" centery="413" centerz="8" radius="1">
+		<monster name="Necromancer" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1616" centery="414" centerz="8" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1564" centery="415" centerz="8" radius="1">
+		<monster name="Gozzler" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Necromancer" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1597" centery="415" centerz="8" radius="1">
+		<monster name="Necromancer" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1618" centery="419" centerz="8" radius="1">
+		<monster name="Gozzler" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Necromancer" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1621" centery="419" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1604" centery="420" centerz="8" radius="1">
+		<monster name="Necromancer" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Gozzler" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1611" centery="420" centerz="8" radius="1">
+		<monster name="Gozzler" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1604" centery="428" centerz="8" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1604" centery="432" centerz="8" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1542" centery="439" centerz="8" radius="1">
+		<monster name="Gozzler" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Necromancer" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1526" centery="445" centerz="8" radius="1">
+		<monster name="Gozzler" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Necromancer" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1516" centery="448" centerz="8" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1551" centery="449" centerz="8" radius="1">
+		<monster name="Necromancer" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gozzler" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1542" centery="450" centerz="8" radius="1">
+		<monster name="Gozzler" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1532" centery="453" centerz="8" radius="1">
+		<monster name="Gozzler" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1544" centery="483" centerz="8" radius="1">
+		<monster name="Necromancer" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Gozzler" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1553" centery="489" centerz="8" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Gozzler" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1546" centery="490" centerz="8" radius="1">
+		<monster name="Gozzler" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1022" centery="1014" centerz="8" radius="1">
+		<monster name="Weeper" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Weeper" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1014" centery="1021" centerz="8" radius="1">
+		<npc name="Yasir" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1030" centery="1021" centerz="8" radius="1">
+		<npc name="Alicja" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1606" centery="405" centerz="9" radius="1">
+		<monster name="Necromancer" x="1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1608" centery="408" centerz="9" radius="1">
+		<monster name="Lich" x="0" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1615" centery="410" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="-1" z="9" spawntime="60" />
+		<monster name="Gozzler" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1560" centery="411" centerz="9" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1603" centery="413" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1550" centery="414" centerz="9" radius="1">
+		<monster name="Necromancer" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1610" centery="415" centerz="9" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1533" centery="420" centerz="9" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1573" centery="422" centerz="9" radius="1">
+		<monster name="Necromancer" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1601" centery="422" centerz="9" radius="1">
+		<monster name="Necromancer" x="-1" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1591" centery="423" centerz="9" radius="1">
+		<monster name="Necromancer" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1585" centery="424" centerz="9" radius="1">
+		<monster name="Gozzler" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1556" centery="429" centerz="9" radius="1">
+		<monster name="Necromancer" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1537" centery="434" centerz="9" radius="1">
+		<monster name="Necromancer" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1551" centery="437" centerz="9" radius="1">
+		<monster name="Necromancer" x="1" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1549" centery="441" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="-1" z="9" spawntime="60" />
+		<monster name="Necromancer" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1535" centery="442" centerz="9" radius="1">
+		<monster name="Necromancer" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1526" centery="446" centerz="9" radius="1">
+		<monster name="Necromancer" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1552" centery="448" centerz="9" radius="1">
+		<monster name="Gozzler" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Necromancer" x="-1" y="1" z="9" spawntime="60" />
+		<monster name="Gozzler" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1519" centery="450" centerz="9" radius="1">
+		<monster name="Gozzler" x="1" y="0" z="9" spawntime="60" />
+		<monster name="Gozzler" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1536" centery="453" centerz="9" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1529" centery="456" centerz="9" radius="1">
+		<monster name="Gozzler" x="1" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1546" centery="458" centerz="9" radius="1">
+		<monster name="Necromancer" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Gozzler" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1558" centery="460" centerz="9" radius="1">
+		<monster name="Necromancer" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1554" centery="468" centerz="9" radius="1">
+		<monster name="Necromancer" x="0" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1562" centery="472" centerz="9" radius="1">
+		<monster name="Necromancer" x="0" y="-1" z="9" spawntime="60" />
+		<monster name="Gozzler" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1565" centery="477" centerz="9" radius="1">
+		<monster name="Gozzler" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1552" centery="479" centerz="9" radius="1">
+		<monster name="Necromancer" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1564" centery="483" centerz="9" radius="1">
+		<monster name="Necromancer" x="-1" y="0" z="9" spawntime="60" />
+		<monster name="Gozzler" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1544" centery="486" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1548" centery="491" centerz="9" radius="1">
+		<monster name="Necromancer" x="1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1558" centery="493" centerz="9" radius="1">
+		<monster name="Necromancer" x="1" y="0" z="9" spawntime="60" />
+		<monster name="Gozzler" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+</spawns>

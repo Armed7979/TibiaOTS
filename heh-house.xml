@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Val'Kare Palmy 1" houseid="1" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="16" />
+	<house name="Val'Kare Palmy 2" houseid="2" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="16" />
+	<house name="Val'Kare Palmy 3" houseid="3" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="16" />
+	<house name="Val'Kare Palmy 4" houseid="4" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="22" />
+</houses>
